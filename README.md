@@ -9,3 +9,17 @@ In this Excel workbook, Sheet 1 presents the comprehensive list of scenarios fro
 4. **List of Scenarios - Catalog 1:** This document contains descriptions of 67 diverse real-world traffic scenarios.
 
 5. **List of Scenarios - Catalog 2:** This document Contains descriptions of 44 diverse real-world traffic scenarios. Please see Table 1: Pages # (3-5).
+
+6. **Table 1** Table 1 shows an example worksheet template that could be used to list ODD conditions.
+
+7. **Table 2** shows the calculated scores for each scenario element (Driving maneuvers, Weather, and Lightning).
+
+8. **Table 3** shows the ODD for the ego vehicle.
+
+9. **Table 4** shows the excluded scenarios and the reason for exclusion.
+
+10. **Table 5** shows the formulated groups and the corresponding key terms.
+    
+11. **Table 6** shows the distribution of the scenarios in the formulated groups.
+
+
