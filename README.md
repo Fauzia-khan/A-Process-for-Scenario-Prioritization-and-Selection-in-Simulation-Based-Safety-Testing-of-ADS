@@ -22,4 +22,6 @@ In this Excel workbook, Sheet 1 presents the comprehensive list of scenarios fro
     
 11. **Table 6** shows the distribution of the scenarios in the formulated groups.
 
+12.  **Table 7** shows the rearranged scenarios within each prioritized scenario group in descending order based on their scores.
+
 
