@@ -14,11 +14,11 @@ In this Excel workbook, Sheet 1 presents the comprehensive list of scenarios fro
 
 7. **Table 2** shows the complete table containing scores for additional scenario elements, such as (Driving maneuvers, Weather, and Lightning).
 
-8. **Table 3** shows the ODD for the ego vehicle.
+8. **Table 3** shows the ODD for the ego vehicle. (Note: It is the same as Table 2 shown in the research paper)
 
 9. **Table 4** shows the excluded scenarios and the reason for exclusion.
 
-10. **Table 5** shows the formulated groups and their corresponding key terms and the distribution of the scenarios over groups
+10. **Table 5** shows the formulated groups and their corresponding key terms and the distribution of the scenarios over groups.
     
 11. **Table 6** shows the distribution of the scenarios in the formulated groups.
 
