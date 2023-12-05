@@ -12,13 +12,13 @@ In this Excel workbook, Sheet 1 presents the comprehensive list of scenarios fro
 
 6. **Table 1** shows an example worksheet template that could be used to list ODD conditions.
 
-7. **Table 2** shows the calculated scores for each scenario element (Driving maneuvers, Weather, and Lightning).
+7. **Table 2** shows the complete table containing scores for additional scenario elements, such as (Driving maneuvers, Weather, and Lightning).
 
 8. **Table 3** shows the ODD for the ego vehicle.
 
 9. **Table 4** shows the excluded scenarios and the reason for exclusion.
 
-10. **Table 5** shows the formulated groups and the corresponding key terms.
+10. **Table 5** shows the formulated groups and their corresponding key terms and the distribution of the scenarios over groups
     
 11. **Table 6** shows the distribution of the scenarios in the formulated groups.
 
